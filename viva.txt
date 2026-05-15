@@ -1,0 +1,223 @@
+Viva Questions with Answers from the PDF
+1. What is Biopython?
+Answer
+
+Biopython is a Python library used in bioinformatics for working with biological data such as DNA, RNA, and protein sequences.
+
+2. What is a cell?
+Answer
+
+A cell is the basic structural and functional unit of life.
+
+3. What is the function of ribosomes?
+Answer
+
+Ribosomes produce proteins from amino acids during the process called protein synthesis or translation.
+
+4. What is protein synthesis?
+Answer
+
+Protein synthesis is the process in which proteins are produced from amino acids inside living cells.
+
+5. What is DNA?
+Answer
+
+DNA is the genetic material present inside the nucleus of the cell that contains instructions for making proteins.
+
+6. What is a gene?
+Answer
+
+A gene is a segment of DNA.
+
+7. What are chromosomes?
+Answer
+
+Chromosomes are structures formed from tightly packed chromatin and DNA.
+
+8. What are histones?
+Answer
+
+Histones are proteins around which DNA strands are wrapped.
+
+9. What are the nitrogen bases in DNA?
+Answer
+
+The nitrogen bases in DNA are:
+
+Adenine
+Thymine
+Guanine
+Cytosine
+10. What is RNA?
+Answer
+
+RNA is a nucleic acid involved in carrying instructions and helping in protein synthesis.
+
+11. What are the types of RNA?
+Answer
+
+The three types of RNA are:
+
+mRNA
+tRNA
+rRNA
+12. What is the function of mRNA?
+Answer
+
+mRNA carries information from genes for the production of polypeptides in the cytoplasm.
+
+13. What is the function of tRNA?
+Answer
+
+tRNA transports amino acids to ribosomes for protein synthesis.
+
+14. What is the function of rRNA?
+Answer
+
+rRNA combines with ribosomal proteins to form ribosomes.
+
+15. What is the difference between DNA and RNA?
+Answer
+
+DNA is long, double stranded, contains deoxyribose sugar, and uses thymine.
+RNA is short, single stranded, contains ribose sugar, and uses uracil.
+
+16. What are macronutrients?
+Answer
+
+Macronutrients are nutrients required in large amounts. Examples are:
+
+Carbohydrates
+Proteins
+Fats
+Water
+Fiber
+17. What are micronutrients?
+Answer
+
+Micronutrients are nutrients required in small amounts such as vitamins and minerals.
+
+18. What are proteins?
+Answer
+
+Proteins are long chains of amino acids linked together by peptide bonds.
+
+19. What are amino acids?
+Answer
+
+Amino acids are organic molecules that serve as the building blocks of proteins.
+
+20. What are the components of an amino acid?
+Answer
+
+Each amino acid consists of:
+
+A central carbon
+An amino group
+A carboxyl group
+A hydrogen atom
+A unique side chain (R-group)
+21. What are essential amino acids?
+Answer
+
+Essential amino acids are amino acids that must be obtained from food.
+
+22. What are non-essential amino acids?
+Answer
+
+Non-essential amino acids are amino acids that the body can synthesize.
+
+23. Which amino acid plays a crucial role in blood clotting?
+Answer
+
+Glutamic Acid (Glu) plays a crucial role in blood clotting.
+
+24. What is fibrinogen?
+Answer
+
+Fibrinogen is the protein primarily responsible for blood clotting.
+
+25. What is thrombin?
+Answer
+
+Thrombin is the enzyme that converts fibrinogen into fibrin to form a clot.
+
+26. What is transcription?
+Answer
+
+Transcription is the process in which a specific gene in DNA is copied into messenger RNA (mRNA).
+
+27. Where does transcription occur?
+Answer
+
+Transcription occurs inside the cell nucleus.
+
+28. What is translation?
+Answer
+
+Translation is the process in which ribosomes read the mRNA sequence and assemble amino acids into a polypeptide chain.
+
+29. What is the role of ribosomes in translation?
+Answer
+
+Ribosomes read the mRNA sequence and assemble amino acids into a polypeptide chain.
+
+30. What is the role of tRNA in translation?
+Answer
+
+tRNA brings the correct amino acids during protein synthesis.
+
+31. What is a codon?
+Answer
+
+A codon is a combination of nucleotides that encodes an amino acid.
+
+32. Which codons encode Alanine?
+Answer
+
+The codons for Alanine are:
+
+GCU
+GCC
+GCA
+GCG
+33. Which codons encode Arginine?
+Answer
+
+The codons for Arginine are:
+
+CGU
+CGC
+CGA
+CGG
+AGA
+AGG
+34. Which codons encode Asparagine?
+Answer
+
+The codons for Asparagine are:
+
+AAU
+AAC
+35. Which codons encode Aspartic acid?
+Answer
+
+The codons for Aspartic acid are:
+
+GAU
+GAC
+36. Which codons encode Cysteine?
+Answer
+
+The codons for Cysteine are:
+
+UGU
+UGC
+37. Which codons encode Glutamic acid?
+Answer
+
+The codons for Glutamic acid are:
+
+GAA
+GAG
+
