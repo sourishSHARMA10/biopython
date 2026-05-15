@@ -1,37 +1,13 @@
-# Given a FASTA file, write a Python script that reads the file and converts it into GenBank format,
-# while preserving the sequence and annotations.
+from Bio import Phylo
+from Bio.Phylo.TreeConstruction import DistanceTreeConstructor, DistanceCalculator
+from Bio import AlignIO
 
-from Bio import SeqIO
-from Bio.SeqRecord import SeqRecord
+alignment = AlignIO.read("aligned_sequences.aln", "clustal")
 
-def convert_fasta_file(fasta_file,genbank_file):
-    records=[]
-    for record in SeqIO.parse(fasta_file,"fasta"):
-        seq=record.seq
-        desc=record.description
-        
-        genbank_record=SeqRecord(
-            seq,
-            id=record.id,
-            name="ExampleGene",
-            description=desc,
-            annotations={
-                'molecule_type':"DNA",
-                'gene':"Example_Gene",
-                'function':"Hypothetical Protien"
-            }
-        )
+calculator = DistanceCalculator("identity")
+distance_matrix = calculator.get_distance(alignment)
 
-        records.append(genbank_record)
+constructor = DistanceTreeConstructor()
+tree = constructor.upgma(distance_matrix)
 
-    with open(genbank_file,'w'):
-        SeqIO.write(records,genbank_file,"genbank")
-    print(f"All FASTA sequences converted to GenBank format and saved as {genbank_file}")
-
-    with open(genbank_file, 'r') as f:
-        print(f.read())
-
-fasta_file= r"C:\Users\souri\Downloads\fasta_1 (1).fasta"
-genbank_file= r"C:\Users\souri\Downloads\genbank_1.gb"
-
-convert_fasta_file(fasta_file, genbank_file)
+Phylo.draw(tree)
