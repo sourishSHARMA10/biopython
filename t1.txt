@@ -1,0 +1,9 @@
+aligned_sequences.aln
+
+fasta_1 (1).fasta
+
+genbank_1.gb
+
+muscle-win64.v5.3.exe
+
+pdb1tup.ent
